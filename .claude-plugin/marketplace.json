@@ -1,0 +1,17 @@
+{
+  "name": "matsuojumpei-plugins",
+  "owner": {
+    "name": "matsuojumpei"
+  },
+  "plugins": [
+    {
+      "name": "legal-risk-check",
+      "source": "./legal-risk-check",
+      "description": "プロダクトの法的リスクを予備調査し、7カテゴリ・5段階レベルのレポートを自動生成。OSSライセンス、プライバシー、著作権、特商法などを網羅。日本法に特化。",
+      "version": "1.0.0",
+      "author": {
+        "name": "matsuojumpei"
+      }
+    }
+  ]
+}

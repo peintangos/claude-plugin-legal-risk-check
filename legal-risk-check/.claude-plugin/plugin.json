@@ -1,0 +1,20 @@
+{
+  "name": "legal-risk-check",
+  "description": "プロダクトの法的リスクを予備調査し、レポートを生成するスキル。OSSライセンス（推移的依存を含む全件調査）、プライバシー（外部送信規律）、利用規約・API ToS、特商法、コンテンツ規制（著作権・翻案権）、競争法の7カテゴリを自動スキャンし、5段階リスクレベル付きのレポートを生成する。法令条文・判例・費用目安を含む3つのディープリサーチ資料を参照し、実務的なアクションプランを提示。",
+  "version": "1.0.0",
+  "author": {
+    "name": "matsuojumpei"
+  },
+  "repository": "https://github.com/matsuojumpei/claude-plugin-legal-risk-check",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "risk",
+    "compliance",
+    "oss-license",
+    "privacy",
+    "copyright",
+    "trademark",
+    "japan-law"
+  ]
+}
