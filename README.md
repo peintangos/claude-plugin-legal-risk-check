@@ -40,7 +40,7 @@
 
 ```bash
 /plugin marketplace add peintangos/claude-plugin-legal-risk-check
-/plugin install legal-risk-check@matsuojumpei-plugins
+/plugin install legal-risk-check@peintangos-plugins
 ```
 
 ## 使い方
